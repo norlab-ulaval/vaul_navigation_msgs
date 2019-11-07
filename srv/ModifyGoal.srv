@@ -1,0 +1,4 @@
+geometry_msgs/PoseStamped new_pose
+string goal_id
+---
+bool success
